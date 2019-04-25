@@ -1,7 +1,7 @@
 <?php
 
-$email = "xxxxxxxxxxx@gmail.com";
+$email = "ariru16@gmail.com";
 
-$deviceid = "?";
+$deviceid = "3F78BF3D8BA393EB";
 
 ?>
